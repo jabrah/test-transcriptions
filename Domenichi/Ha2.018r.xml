@@ -130,6 +130,12 @@
 	    	<!-- Marks: apostrophe|box|bracket|circumflex|comma|dash|dot|equal_sign|hash|horizontal_bar|plus_sign|quotation_mark|semicolon|straight_quotation_mark|tilde|triple_dash|vertical_bar|X_sign -->
 	    	
 	    	<!-- Right margin -->
+	    	<mark name="plus_sign" method="pen" place="right_margin"/> <!-- terminando; -->
+    		<mark name="dash" method="pen" place="right_margin"/> <!-- importu -->
+    		<mark name="dash" method="pen" place="right_margin"/> <!-- l'innan -->
+    		<mark name="horizontal_bar" method="pen" place="right_margin"/> <!-- nel partir -->
+    		<mark name="dash" method="pen" place="right_margin"/> <!-- l'hospi -->
+    		<mark name="plus_sign" method="pen" place="right_margin"/> <!-- sodisfar --> 
 	    	
 	    	<!-- Left margin -->
 	    	<mark name="quotation_mark" method="pen" place="left_margin"/> <!-- tro, se non  -->
